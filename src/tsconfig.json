@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "NgSpotify",
+    "baseUrl": "",
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
