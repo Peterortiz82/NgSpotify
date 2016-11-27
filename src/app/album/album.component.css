@@ -1,0 +1,17 @@
+.album-thumb {
+  width: 100%;
+}
+
+.album-header {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #333;
+}
+
+.muted-text {
+  color: #575759;
+}
+
+.plain-text {
+  color: #ffffff;
+}
