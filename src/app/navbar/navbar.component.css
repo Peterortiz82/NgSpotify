@@ -8,3 +8,11 @@
   border-radius: 0px;
   height: 20px;
 }
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+  color: rgba(0, 163, 121, 0.74);
+}
