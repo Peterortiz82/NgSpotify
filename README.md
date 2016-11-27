@@ -1,6 +1,6 @@
 # NgSpotify
 
-Simple project that uses Angular 2 and the Spotify API that will allow users to search albums/artists on Spotify. [Check it out](https://peterortiz82.github.io//ng-spotify//).
+Simple project that uses Angular 2 and the Spotify API that will allow users to search albums/artists on Spotify. Check it out [here](https://peterortiz82.github.io/NgSpotify/)!
 
 ### Artist Search Page
 ![search](https://cloud.githubusercontent.com/assets/7608328/20644919/06f69e2e-b417-11e6-9e2a-d0a6178cdfa2.png)
